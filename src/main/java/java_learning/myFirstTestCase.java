@@ -7,6 +7,8 @@ public class myFirstTestCase {
 		System.out.println("Bismillah");
 		System.out.println("Zakir");
 		System.out.println("Aman");
+		System.out.println("Zakriya");
+		
 
 	}
 
