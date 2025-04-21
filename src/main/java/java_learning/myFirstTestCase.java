@@ -9,7 +9,11 @@ public class myFirstTestCase {
 		System.out.println("Zakir");
 		System.out.println("Aman");
 		System.out.println("Zakriya");
+<<<<<<< HEAD
 		System.out.println("Imran");
+=======
+		System.out.println("Mustaq");
+>>>>>>> 62b8cfecca0eeba5c89bba2975e3b84be18772b9
 		
 
 	}
